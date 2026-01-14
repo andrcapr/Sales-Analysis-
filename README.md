@@ -87,5 +87,3 @@ matplotlib & seaborn – Data visualization
 📌 Conclusion
 
 This project demonstrates a complete end-to-end data analysis workflow, from raw data cleaning to business insight generation. The results highlight opportunities for strategic focus on high-performing products and regions, as well as optimization of sales channels and seasonal planning.
-0 messages remaining. Start a free Plus trial to keep the conversation going
-Try Plus free
